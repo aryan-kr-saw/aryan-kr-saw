@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aryan Kumar Saw</h1>
-<h3 align="center">A passionate MERN Developer.</h3>
+<h3 align="center">A passionate Developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan-kr-saw&label=Profile%20views&color=0e75b6&style=flat" alt="aryan-kr-saw" /> </p>
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **Development**
 
 - 📫 How to reach me **aryanksaw.official@gmail.com**
 
